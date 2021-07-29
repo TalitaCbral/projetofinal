@@ -1,0 +1,9 @@
+img{
+    justify-content: center;
+    flex-wrap: nowrap;
+    flex-grow: 1;
+    width: 50%;
+    border-radius: 50px;
+    height: 100%;
+    max-width: 100%;
+}
